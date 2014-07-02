@@ -1,0 +1,1 @@
+BlogAngular::Application.config.assets.precompile += %w( main.js )
