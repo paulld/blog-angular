@@ -11,8 +11,3 @@
 #= require_tree ./controllers/main
 #= require_tree ./directives/global
 #= require_tree ./directives/main
-
-#= require_tree ./Controllers/main
-#= require_tree ./Directives/main
-#= require_tree ./Filters/main
-#= require_tree ./Services/main
